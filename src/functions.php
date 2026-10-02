@@ -4,8 +4,8 @@
         return "Buenasssssss";
     }
 
-    public function mensajePersonalizado(){
-        return "Este NO es un mensaje personalizado";
+    public function mensajeChachi(){
+        return "Este es un mensaje personalizado";
     }
 
 ?>
