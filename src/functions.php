@@ -4,4 +4,8 @@
         return "Buenasssssss";
     }
 
+    public function mensajePersonalizado(){
+        return "Este es un mensaje personalizado";
+    }
+
 ?>
