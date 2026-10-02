@@ -4,7 +4,7 @@
         return "Buenasssssss";
     }
 
-    public function mensajePersonalizado(){
+    public function mensajeChachi(){
         return "Este es un mensaje personalizado";
     }
 
