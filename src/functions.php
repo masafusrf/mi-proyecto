@@ -8,4 +8,8 @@
         return "Este es un mensaje personalizado";
     }
 
+    public function suma(){
+        return 2+2;
+    }
+
 ?>
