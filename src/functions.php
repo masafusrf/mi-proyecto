@@ -5,7 +5,7 @@
     }
 
     public function mensajePersonalizado(){
-        return "Este es un mensaje personalizado";
+        return "Este NO es un mensaje personalizado";
     }
 
 ?>
